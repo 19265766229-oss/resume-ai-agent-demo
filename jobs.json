@@ -1,0 +1,565 @@
+[
+  {
+    "job_id": "job_b7c9c6fbd159",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "数据分析实习生",
+    "city": "不限城市",
+    "category": "数据类",
+    "responsibilities": [
+      "负责业务数据清洗、整理和统计分析",
+      "协助搭建数据看板和指标体系",
+      "支持运营、增长或产品策略复盘"
+    ],
+    "requirements": [
+      "熟悉 SQL、Excel、Python 等工具",
+      "具备数据分析思维和逻辑表达能力",
+      "了解常见业务指标和数据可视化方法"
+    ],
+    "hard_skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "数据分析",
+      "数据可视化",
+      "指标体系"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_37d383e51f47",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "数据运营实习生",
+    "city": "不限城市",
+    "category": "数据类",
+    "responsibilities": [
+      "跟踪用户、活动和业务运营数据",
+      "输出运营数据日报、周报和复盘分析",
+      "支持用户增长和活动策略优化"
+    ],
+    "requirements": [
+      "熟悉 Excel，了解 SQL 或 Python 优先",
+      "对用户增长、活动运营和数据分析感兴趣",
+      "具备较强执行力和沟通能力"
+    ],
+    "hard_skills": [
+      "Excel",
+      "SQL",
+      "数据分析",
+      "用户增长",
+      "活动运营"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_7924d5b5ba7b",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "商业分析实习生",
+    "city": "不限城市",
+    "category": "数据类",
+    "responsibilities": [
+      "协助进行行业研究、竞品分析和经营数据分析",
+      "参与商业问题拆解和分析报告撰写",
+      "支持业务决策和管理层汇报材料制作"
+    ],
+    "requirements": [
+      "具备商业敏感度和结构化分析能力",
+      "熟悉 Excel、PPT，有 SQL/Python 能力加分",
+      "经济、金融、统计、管理、计算机相关背景优先"
+    ],
+    "hard_skills": [
+      "商业分析",
+      "Excel",
+      "PPT",
+      "SQL",
+      "统计分析"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_50b3a180f7b2",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "BI 实习生",
+    "city": "不限城市",
+    "category": "数据类",
+    "responsibilities": [
+      "协助搭建 BI 报表和数据看板",
+      "维护核心业务指标和可视化页面",
+      "支持业务部门数据取数和分析需求"
+    ],
+    "requirements": [
+      "熟悉 SQL 和至少一种 BI 工具",
+      "了解数据仓库、指标体系和数据可视化",
+      "具备良好的沟通和需求理解能力"
+    ],
+    "hard_skills": [
+      "SQL",
+      "Tableau",
+      "PowerBI",
+      "数据可视化",
+      "看板搭建"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_81103677dc41",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "产品经理实习生",
+    "city": "不限城市",
+    "category": "产品类",
+    "responsibilities": [
+      "参与用户需求分析、竞品分析和产品功能设计",
+      "协助撰写需求文档和原型设计",
+      "跟进产品开发、测试和上线迭代"
+    ],
+    "requirements": [
+      "具备较强逻辑思维和沟通能力",
+      "熟悉 Axure、Figma、墨刀等原型工具优先",
+      "有产品项目、用户调研或互联网实习经历加分"
+    ],
+    "hard_skills": [
+      "需求分析",
+      "竞品分析",
+      "原型设计",
+      "Axure",
+      "Figma",
+      "PRD"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_2906e2f705d2",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "AI 产品实习生",
+    "city": "不限城市",
+    "category": "产品类",
+    "responsibilities": [
+      "参与 AI 产品需求调研和功能设计",
+      "协助分析用户场景和模型能力边界",
+      "跟进 AI 功能测试、反馈收集和迭代优化"
+    ],
+    "requirements": [
+      "了解大模型、AI 应用或数据产品",
+      "具备产品思维和技术理解能力",
+      "有 AI 工具、数据分析或产品项目经验加分"
+    ],
+    "hard_skills": [
+      "需求分析",
+      "AI产品",
+      "用户调研",
+      "原型设计",
+      "数据分析"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_8d977236f975",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "用户研究实习生",
+    "city": "不限城市",
+    "category": "产品类",
+    "responsibilities": [
+      "协助开展用户访谈、问卷调研和可用性测试",
+      "整理用户反馈并输出研究报告",
+      "支持产品体验优化和需求洞察"
+    ],
+    "requirements": [
+      "心理学、社会学、设计、产品相关背景优先",
+      "具备访谈、问卷和分析能力",
+      "表达清晰，细致耐心"
+    ],
+    "hard_skills": [
+      "用户调研",
+      "问卷分析",
+      "访谈",
+      "竞品分析"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_1cff6e6d1a3e",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "前端开发实习生",
+    "city": "不限城市",
+    "category": "技术类",
+    "responsibilities": [
+      "参与 Web 前端页面和组件开发",
+      "协助完成页面交互、接口联调和性能优化",
+      "配合产品和设计实现业务功能"
+    ],
+    "requirements": [
+      "熟悉 HTML、CSS、JavaScript",
+      "了解 Vue 或 React 框架",
+      "具备良好的代码习惯和学习能力"
+    ],
+    "hard_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Vue",
+      "React",
+      "Git"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_add4788d9506",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "后端开发实习生",
+    "city": "不限城市",
+    "category": "技术类",
+    "responsibilities": [
+      "参与后端接口、业务逻辑和数据库开发",
+      "协助完成系统模块开发和接口联调",
+      "参与代码测试、问题排查和性能优化"
+    ],
+    "requirements": [
+      "熟悉 Java、Python 或 Go 至少一种语言",
+      "了解数据库、缓存和后端框架",
+      "具备基础算法和工程实现能力"
+    ],
+    "hard_skills": [
+      "Java",
+      "Python",
+      "MySQL",
+      "Redis",
+      "Spring",
+      "Git"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_bb72af0d5e39",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "测试开发实习生",
+    "city": "不限城市",
+    "category": "技术类",
+    "responsibilities": [
+      "参与测试用例设计、自动化测试和缺陷跟踪",
+      "协助搭建测试工具和质量保障流程",
+      "支持产品上线前的功能验证"
+    ],
+    "requirements": [
+      "熟悉至少一种编程语言",
+      "了解软件测试流程和自动化测试工具",
+      "细致认真，有质量意识"
+    ],
+    "hard_skills": [
+      "Python",
+      "Java",
+      "自动化测试",
+      "接口测试",
+      "Git"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_1db076294e56",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "机器学习算法实习生",
+    "city": "不限城市",
+    "category": "算法类",
+    "responsibilities": [
+      "参与机器学习模型训练、评估和优化",
+      "协助完成数据处理、特征工程和实验分析",
+      "支持算法模型在业务场景中的应用"
+    ],
+    "requirements": [
+      "熟悉 Python、机器学习基础和常用算法",
+      "了解 PyTorch 或 TensorFlow 框架",
+      "有相关项目、竞赛或论文经验加分"
+    ],
+    "hard_skills": [
+      "Python",
+      "机器学习",
+      "深度学习",
+      "PyTorch",
+      "TensorFlow",
+      "数据分析"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_dd7c4061ba22",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "NLP 算法实习生",
+    "city": "不限城市",
+    "category": "算法类",
+    "responsibilities": [
+      "参与文本分类、信息抽取、问答或大模型应用相关工作",
+      "协助进行数据清洗、模型训练和效果评估",
+      "支持 NLP 模型在具体业务场景落地"
+    ],
+    "requirements": [
+      "熟悉 Python 和深度学习框架",
+      "了解 Transformer、BERT 或大模型基础",
+      "有 NLP 项目经验加分"
+    ],
+    "hard_skills": [
+      "Python",
+      "NLP",
+      "深度学习",
+      "PyTorch",
+      "大模型"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_a08c8a3cbec5",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "内容运营实习生",
+    "city": "不限城市",
+    "category": "运营类",
+    "responsibilities": [
+      "负责内容选题、编辑、发布和数据复盘",
+      "协助运营新媒体账号和内容活动",
+      "支持用户增长和品牌传播"
+    ],
+    "requirements": [
+      "具备较强文字表达和热点敏感度",
+      "熟悉公众号、小红书、抖音等内容平台优先",
+      "有内容创作或新媒体运营经历加分"
+    ],
+    "hard_skills": [
+      "内容运营",
+      "新媒体运营",
+      "文案",
+      "数据分析",
+      "活动策划"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_af97ee51acd3",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "用户运营实习生",
+    "city": "不限城市",
+    "category": "运营类",
+    "responsibilities": [
+      "协助用户分层、社群维护和活动运营",
+      "跟踪用户活跃、留存和转化数据",
+      "参与用户增长策略和活动复盘"
+    ],
+    "requirements": [
+      "具备沟通能力和用户意识",
+      "了解社群运营、活动运营和数据分析",
+      "执行力强，细致负责"
+    ],
+    "hard_skills": [
+      "用户运营",
+      "社群运营",
+      "活动策划",
+      "用户增长",
+      "数据分析"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_c8051b9e47fb",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "销售专员",
+    "city": "不限城市",
+    "category": "销售类",
+    "responsibilities": [
+      "负责客户开发、沟通跟进和关系维护",
+      "完成产品介绍、需求挖掘和销售转化",
+      "协助完成销售目标和客户资料管理"
+    ],
+    "requirements": [
+      "沟通表达能力强，抗压能力较好",
+      "对销售、客户服务或商务拓展感兴趣",
+      "有校园推广、社团外联或销售经验加分"
+    ],
+    "hard_skills": [
+      "销售",
+      "客户沟通",
+      "客户维护",
+      "商务拓展",
+      "市场调研"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  },
+  {
+    "job_id": "job_9eff3bbb11c0",
+    "source_type": "岗位模板",
+    "company": "岗位画像模板",
+    "title": "客户经理",
+    "city": "不限城市",
+    "category": "销售类",
+    "responsibilities": [
+      "维护客户关系并挖掘客户需求",
+      "协助完成商务谈判、方案介绍和合同推进",
+      "跟踪客户反馈并协调内部资源"
+    ],
+    "requirements": [
+      "具备良好的沟通能力和服务意识",
+      "逻辑清晰，执行力强",
+      "市场营销、工商管理、金融等背景优先"
+    ],
+    "hard_skills": [
+      "客户沟通",
+      "客户维护",
+      "商务拓展",
+      "销售"
+    ],
+    "soft_skills": [
+      "沟通能力",
+      "逻辑分析",
+      "学习能力"
+    ],
+    "bonus_skills": [],
+    "source_url": "",
+    "created_at": "2026-06-04 14:56:02",
+    "raw_text_preview": "",
+    "parser": "template"
+  }
+]
